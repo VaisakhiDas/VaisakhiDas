@@ -19,8 +19,8 @@ I'm actively exploring tech stacks, diving into backend magic ✨, and building 
 
 ### 📲 Socials
 
-[![Instagram](https://img.shields.io/badge/@vaisakhidas_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaisakhidas/)  
-[![LinkedIn](https://img.shields.io/badge/Vaisakhi%20Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaisakhi-das/)  
+[![Instagram](https://img.shields.io/badge/Instagram_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaisakhidas/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaisakhi-das/)  
 <!-- Replace Instagram and LinkedIn with your handles -->
 
 ---
