@@ -27,7 +27,7 @@ I'm actively exploring tech stacks, diving into backend magic ✨, and building 
 
 ### 🌐 Portfolio Website
 
-Check it out here 👉 [Vaisakhi.dev](https://vaisakhi-portfolio.netlify.app)  
+Check it out here 👉 [Vaisakhi-portfolio](https://vaisakhi-portfolio.netlify.app)  
 <!-- Replace with your actual domain or portfolio link -->
 
 ---
